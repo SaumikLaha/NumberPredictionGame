@@ -11,34 +11,37 @@
 - Simple, beginner-friendly, and interactive
 
 ---
-## 🖥️ Example Run 
-🎲 Welcome to Number Prediction Game!
-Do you want to set a maximum number of attempts? (yes/no): yes
+## 🖥️ Example Run
 
-Enter maximum attempts (e.g., 5): 5
+🎲 **Welcome to Number Prediction Game!**
 
-I've picked a number between 1 and 100.
+Do you want to set a maximum number of attempts? (yes/no): **yes**  
+Enter maximum attempts (e.g., 5): **5**
 
-You have up to 5 attempt(s) to guess it.
+---
 
-Enter your guess (or type 0 to quit this round):50
+🤖 I've picked a number between **1 and 100**.  
+You have up to **5 attempt(s)** to guess it.
 
-⬆️ Too low.
-Try again.
+---
 
-Enter your guess (or type 0 to quit this round): 75
+👉 Enter your guess (or type `0` to quit this round): **50**  
+⬆️ Too low. Try again.
 
-⬇️ Too high.
-Try again.
+👉 Enter your guess (or type `0` to quit this round): **75**  
+⬇️ Too high. Try again.
 
-Enter your guess (or type 0 to quit this round): 62
+👉 Enter your guess (or type `0` to quit this round): **62**  
+🎉 Correct! You guessed it in **3 attempt(s)**.
 
-🎉 Correct! You guessed it in 3 attempt(s).
+🏆 **New best score:** 3 attempts!
 
-🏆 New best score: 3 attempts!
+---
 
-Do you want to play again? (yes/no): no
-Thanks for playing! Goodbye 👋
+🔄 Do you want to play again? (yes/no): **no**  
+✅ Thanks for playing! Goodbye 👋
+
+
 ---
 ## ⚙️ How to Run  
 1. Clone this repository:
